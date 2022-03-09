@@ -1,0 +1,40 @@
+.side_menu .point{
+  background-color: #FCECEC;
+}
+.side_menu .point a{
+  color: #4D4D4D;
+}
+
+.content tr{
+  height: 7rem;
+}
+
+.content th{
+  width: 150px;
+  text-align: right;
+}
+
+.text  {
+  width: 480px;
+    margin-left: 10px;
+}
+
+.man{
+  margin-left: 10px;
+}
+
+.botton {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.submit {
+color: #fff;
+background-color:#008B8B;
+padding: 10px;
+font-family: sans-serif;
+}
+
+.submit:hover{
+  opacity: 0.5;
+}
